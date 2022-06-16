@@ -1,0 +1,6 @@
+.navi {
+  background-color: var(--nav-bg-color);
+  border-bottom: 1px solid var(--nav-bg-color-inverse);
+  color: var(--nav-text-color);
+  padding: 15px 25px;
+}
